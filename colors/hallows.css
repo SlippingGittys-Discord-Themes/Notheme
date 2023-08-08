@@ -1,0 +1,37 @@
+ /* ----- Hallows ------ */
+ :root {
+    --projectCabBackground: rgba(15, 17, 28, 1);
+    --projectCabBackground2: rgba(6, 8, 13, 1);
+    --projectCabTextBackground: rgb(0, 0, 0);
+    --projectCabFriendsBackground: rgb(20, 20, 22);
+    --projectCabFriends: rgb(27, 26, 31);
+    --projectCabActiveNow: rgb(46, 45, 45 0.276);
+    --projectCabGuilds: rgba(6, 8, 13, 1);
+    --projectCabFauxTitleBar: rgba(6, 8, 13, 1);
+    --projectCabTitleBar: rgba(11, 13, 20, 1);
+    --projectCabSearch: rgb(21, 20, 25);
+    --projectCabHover: var(--accent-focused);
+  }
+  
+  /* Colors */
+  
+  .theme-dark {
+    --accent: rgba(237, 115, 46, 1);
+    --accent-hover: rgb(237, 115, 46, 0.977);
+    --accent-selected: rgba(237, 115, 46, 0.216);
+    --accent-focused: rgb(237, 115, 46, 0.200);
+    --accent-fob: rgba(237, 115, 46, 1);
+    --accent-keys: rgba(198, 168, 55, 1);
+    --accent-keys-light: rgba(141, 172, 200, 1);
+    --accent-titles: rgba(198, 168, 55, 1);
+    --borders: rgba(237, 115, 46, 1) 2px dotted;
+  }
+  
+  
+  .theme-dark .username-h_Y3Us, .theme-dark .messageContent-2t3eCI, .header-1dhDWV, .marginBottom20-315RVT, .username-3_PJ5r {
+    color: rgb(255, 255, 255);
+  }
+  
+  .circleIconButton-1VxDrg, .childWrapper-1j_1ub, .button-1EGGcP.buttonColor-3bP3fX, .button-1EGGcP .buttonColor-3bP3fX, .root-22AK9z {
+    background-color: black;
+  }
