@@ -1,6 +1,8 @@
 # Notheme
 A Discord Theme Inspired by.... Nothing at All.
 
+# [Work in progress, in heavy need of reorganizing, fixing, and more]
+
 > _"it's like a messaging service in a video game"_
 
 > _"yooo the nothing theme"_
