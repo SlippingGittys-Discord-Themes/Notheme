@@ -1,4 +1,4 @@
-# NoTheme
+# Notheme
 A Discord Theme Inspired by.... Nothing yet!
 
 > _"it's like a messaging service in a video game"_
