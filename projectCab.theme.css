@@ -6,27 +6,22 @@
  * @website https://slippinggitty.github.io/
 */
 
-/* ----- Classy ------ */
-
+/* ------ Black ------ */
 :root {
-  --projectCabBackground: rgb(255, 255, 255);
+  --projectCabBackground: rgb(0, 0, 0);
   --projectCabBackground2: rgb(0, 0, 0);
-  --projectCabBackground3: rgb(0, 0, 0);
   --projectCabTextBackground: rgb(0, 0, 0);
   --projectCabFriendsBackground: rgb(20, 20, 22);
   --projectCabFriends: rgb(27, 26, 31);
   --projectCabActiveNow: rgb(46, 45, 45 0.276);
   --projectCabGuilds: rgb(27, 26, 31);
-  --projectCabFauxTitleBar: rgb(0, 0, 0);
   --projectCabTitleBar: rgb(0, 0, 0);
+  --projectCabFauxTitleBar: rgb(0, 0, 0);
   --projectCabSearch: rgb(21, 20, 25);
   --projectCabHover: var(--accent-focused);
 }
-
-/* Colors */
-
 :root {
-  --accent: rgb(160, 160, 160);
+  --accent: rgb(124, 124, 124);
   --accent-hover: rgb(124, 124, 124, 0.977);
   --accent-selected: rgba(124, 124, 124, 0.216);
   --accent-focused: rgb(124, 124, 124, 0.200);
@@ -34,16 +29,12 @@
   --accent-keys: rgba(198, 168, 55, 1);
   --accent-keys-light: rgba(141, 172, 200, 1);
   --accent-titles: rgba(198, 168, 55, 1);
-  --borders: rgb(255, 255, 255)  2px;
+  --borders: rgb(124, 124, 124) 2px dotted;
 }
 
-.theme-dark .username-h_Y3Us, .theme-dark .messageContent-2t3eCI, .header-1dhDWV, .marginBottom20-315RVT, .username-3_PJ5r, .base-3bcbY3 .text-3S7XCz {
-  color: black;
-}
-
-.circleIconButton-1VxDrg, .childWrapper-1j_1ub, .button-1EGGcP.buttonColor-3bP3fX, .button-1EGGcP .buttonColor-3bP3fX, .root-22AK9z {
-  background-color: black;
-}
+body {
+  background-image: url("https://files.catbox.moe/09fgs6.png");
+ }
 
 :root {
   --background-tertiary: var(--projectCabBackground2);
@@ -157,7 +148,6 @@
 
 
 /* SVGS */
-
 .icon-2xnN2Y {
   color: var(--accent) !important;
 }
@@ -186,6 +176,8 @@ foreignObject[mask*="url(#"] {
     mask: none;
     -webkit-mask: none;
 }
+
+/* ----------- Various Icons ----------- */
 
 /* Inbox Icon */
 .icon-2xnN2Y > path[d^="M19 3H4.99C3.88 3 3.01"] {
@@ -393,9 +385,12 @@ foreignObject[mask*="url(#"] {
   display: none;
 }
 
-/* Emojis */
-.sprite-2lxwfc {
+/* Text Chat Area Buttons */
+.webkit-QgSAqd .buttons-uaqb-5 {
   display: none;
+}
+.attachButtonInner-2mwer8 {
+  height: 18px;
 }
 
 /* Star DMs*/
@@ -414,6 +409,7 @@ foreignObject[mask*="url(#"] {
     "M9 2H2v2h5v4H2v2h7V7h5v10H9v-3H2v2h5v4H2v2h7v-3h7v-6h6v-2h-6V5H9V2z"
   );
   transform: scale(1);
+  fill: var(--accent);
 }
 
 
@@ -651,6 +647,43 @@ foreignObject[mask*="url(#"] {
   transform: scale(1.3, 1.3);
 }
 
+[d="M5.43309 21C5.35842 21 5.30189 20.9325 5.31494 20.859L5.99991 17H2.14274C2.06819 17 2.01168 16.9327 2.02453 16.8593L2.33253 15.0993C2.34258 15.0419 2.39244 15 2.45074 15H6.34991L7.40991 9H3.55274C3.47819 9 3.42168 8.93274 3.43453 8.85931L3.74253 7.09931C3.75258 7.04189 3.80244 7 3.86074 7H7.75991L8.45234 3.09903C8.46251 3.04174 8.51231 3 8.57049 3H10.3267C10.4014 3 10.4579 3.06746 10.4449 3.14097L9.75991 7H15.7599L16.4523 3.09903C16.4625 3.04174 16.5123 3 16.5705 3H18.3267C18.4014 3 18.4579 3.06746 18.4449 3.14097L17.7599 7H21.6171C21.6916 7 21.7481 7.06725 21.7353 7.14069L21.4273 8.90069C21.4172 8.95811 21.3674 9 21.3091 9H17.4099L17.0495 11.04H15.05L15.4104 9H9.41035L8.35035 15H10.5599V17H7.99991L7.30749 20.901C7.29732 20.9583 7.24752 21 7.18934 21H5.43309Z"] {
+  d: path(
+    "M4 2h18v10h-2V4H4v18H2V2h2zm2 14h4v2H6v2H4v-2h2v-2zm16 0h-2v-2h-2v-2h-2v2h2v2h-6v2h6v2h-2v2h2v-2h2v-2h2v-2z"
+  );
+  transform: scale(1);
+  fill: rgb(7, 166, 169);
+}
+
+[d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1z"] {
+  d: path(
+    "M5 3H3v2h2V3zm2 4h2v2H7V7zm4 0h2v2h-2V7zm2 12h-2v2h2v-2zm2 0h2v2h-2v-2zm6 0h-2v2h2v-2zM7 11h2v2H7v-2zm14 0h-2v2h2v-2zm-2 4h2v2h-2v-2zM7 19h2v2H7v-2zM19 7h2v2h-2V7zM7 3h2v2H7V3zm2 12H7v2h2v-2zM3 7h2v2H3V7zm14 0h-2v2h2V7zM3 11h2v2H3v-2zm2 4H3v2h2v-2zm6-12h2v2h-2V3zm6 0h-2v2h2V3z"
+  );
+  transform: scale(1);
+  fill: rgb(7, 166, 169);
+}
+[d="M15 5H8c-1.1 0-1.99.9-1.99 2L6 21c0 1.1.89 2 1.99 2H19c1.1 0 2-.9 2-2V11l-6-6zM8 21V7h6v5h5v9H8z"] {
+  d: path(
+    "M5 3H3v2h2V3zm2 4h2v2H7V7zm4 0h2v2h-2V7zm2 12h-2v2h2v-2zm2 0h2v2h-2v-2zm6 0h-2v2h2v-2zM7 11h2v2H7v-2zm14 0h-2v2h2v-2zm-2 4h2v2h-2v-2zM7 19h2v2H7v-2zM19 7h2v2h-2V7zM7 3h2v2H7V3zm2 12H7v2h2v-2zM3 7h2v2H3V7zm14 0h-2v2h2V7zM3 11h2v2H3v-2zm2 4H3v2h2v-2zm6-12h2v2h-2V3zm6 0h-2v2h2V3z"
+  );
+  transform: scale(1);
+  fill: rgb(7, 166, 169);
+}
+
+[d="M13.4399 12.96C12.9097 12.96 12.4799 13.3898 12.4799 13.92V20.2213C12.4799 20.7515 12.9097 21.1813 13.4399 21.1813H14.3999C14.5325 21.1813 14.6399 21.2887 14.6399 21.4213V23.4597C14.6399 23.6677 14.8865 23.7773 15.0408 23.6378L17.4858 21.4289C17.6622 21.2695 17.8916 21.1813 18.1294 21.1813H22.5599C23.0901 21.1813 23.5199 20.7515 23.5199 20.2213V13.92C23.5199 13.3898 23.0901 12.96 22.5599 12.96H13.4399Z"] {
+  d: path(
+    ""
+  );
+  transform: scale(0);
+}
+[d="M18.5 2C17.9477 2 17.5 2.44772 17.5 3V4.5H16C15.4477 4.5 15 4.94771 15 5.5C15 6.05228 15.4477 6.5 16 6.5H17.5V8C17.5 8.55228 17.9477 9 18.5 9C19.0523 9 19.5 8.55229 19.5 8V6.5H21C21.5523 6.5 22 6.05229 22 5.5C22 4.94772 21.5523 4.5 21 4.5H19.5V3C19.5 2.44772 19.0523 2 18.5 2Z"] {
+  d: path(
+    ""
+  );
+  transform: scale(0);
+}
+
+
 /* Server Context Menu */
 [d="M21 3H24V5H21V8H19V5H16V3H19V0H21V3ZM10 12C12.205 12 14 10.205 14 8C14 5.795 12.205 4 10 4C7.795 4 6 5.795 6 8C6 10.205 7.795 12 10 12ZM10 13C5.289 13 2 15.467 2 19V20H18V19C18 15.467 14.711 13 10 13Z"] {
   d: path(
@@ -676,6 +709,12 @@ foreignObject[mask*="url(#"] {
   );
   transform: scale(1.3, 1.3);
 }
+[d="M7 12.001C7 10.8964 6.10457 10.001 5 10.001C3.89543 10.001 3 10.8964 3 12.001C3 13.1055 3.89543 14.001 5 14.001C6.10457 14.001 7 13.1055 7 12.001ZM14 12.001C14 10.8964 13.1046 10.001 12 10.001C10.8954 10.001 10 10.8964 10 12.001C10 13.1055 10.8954 14.001 12 14.001C13.1046 14.001 14 13.1055 14 12.001ZM19 10.001C20.1046 10.001 21 10.8964 21 12.001C21 13.1055 20.1046 14.001 19 14.001C17.8954 14.001 17 13.1055 17 12.001C17 10.8964 17.8954 10.001 19 10.001Z"] {
+  d: path(
+    "M7 8H5v2h2v2h2v2h2v2h2v-2h2v-2h2v-2h2V8h-2v2h-2v2h-2v2h-2v-2H9v-2H7V8z"
+  );
+  transform: scale(1);
+}
 
 /* Voice Chat Phone Icon */
 [d="M21.1169 1.11603L22.8839 2.88403L19.7679 6.00003L22.8839 9.11603L21.1169 10.884L17.9999 7.76803L14.8839 10.884L13.1169 9.11603L16.2329 6.00003L13.1169 2.88403L14.8839 1.11603L17.9999 4.23203L21.1169 1.11603ZM18 22H13C6.925 22 2 17.075 2 11V6C2 5.447 2.448 5 3 5H7C7.553 5 8 5.447 8 6V10C8 10.553 7.553 11 7 11H6C6.063 14.938 9 18 13 18V17C13 16.447 13.447 16 14 16H18C18.553 16 19 16.447 19 17V21C19 21.553 18.553 22 18 22Z"] {
@@ -693,6 +732,45 @@ foreignObject[mask*="url(#"] {
   transform: scale(1);
 }
 
+/* Sound Board */
+[d="M2 6.00299V18.003C2 19.107 2.895 20.003 4 20.003H5V4.00299H4C2.895 4.00299 2 4.89799 2 6.00299Z"] {
+  d: path(
+    "M8 4h12v16h-8v-8h6V8h-8v12H2v-8h6V4zm0 10H4v4h4v-4zm10 0h-4v4h4v-4z"
+  );
+  transform: scale(1);
+}
+[d="M20 4.00299H7V20.003H20C21.104 20.003 22 19.107 22 18.003V6.00299C22 4.89799 21.104 4.00299 20 4.00299ZM19 14.003C19 15.107 18.104 16.003 17 16.003C15.896 16.003 15 15.107 15 14.003C15 12.899 15.896 12.003 17 12.003V9.38999L13 10.724C13 10.724 13 14.984 13 15.003C13 16.107 12.104 17.003 11 17.003C9.896 17.003 9 16.107 9 15.003C9 13.899 9.896 13.003 11 13.003V10.003C11 9.57199 11.275 9.19099 11.684 9.05399L17.684 7.05399C17.989 6.95199 18.323 7.00299 18.585 7.19199C18.846 7.37899 19 7.68199 19 8.00299C19 8.00299 19 13.983 19 14.003Z"] {
+  d: path(
+    "M8 4h12v16h-8v-8h6V8h-8v12H2v-8h6V4zm0 10H4v4h4v-4zm10 0h-4v4h4v-4z"
+  );
+  transform: scale(1);
+}
+
+/* Activity */
+[d="M4.92871 13.4149L10.5857 19.0709L18.3639 11.2927C19.7781 9.87859 22.6066 6.48376 21.1923 2.80748C17.5153 1.3932 14.1213 4.22173 12.7074 5.63625L4.92871 13.4149ZM16.064 9.93309C17.1686 9.93309 18.064 9.03766 18.064 7.93309C18.064 6.82852 17.1686 5.93309 16.064 5.93309C14.9594 5.93309 14.064 6.82852 14.064 7.93309C14.064 9.03766 14.9594 9.93309 16.064 9.93309Z"] {
+  d: path(
+    "M6 4h14v2h2v6h-8v2h6v2h-4v2h-2v2H2V8h2V6h2V4zm2 6h2V8H8v2z"
+  );
+  transform: scale(1);
+}
+[d="M3.41357 16.7844C2.34946 17.8496 2.00004 22 2.00004 22C2.00004 22 6.15125 21.6521 7.21627 20.5869C7.71243 20.0915 7.96638 19.4494 8 18.8004L5.21285 18.7866L5.19829 16C4.54947 16.0336 3.90973 16.2881 3.41357 16.7844Z"] {
+  d: path(
+    "M6 4h14v2h2v6h-8v2h6v2h-4v2h-2v2H2V8h2V6h2V4zm2 6h2V8H8v2z"
+  );
+  transform: scale(1);
+}
+[d="M9.17144 9.17151H3.51459L1.74684 10.9393L6.34302 11.9999L9.17144 9.17151Z"] {
+  d: path(
+    "M6 4h14v2h2v6h-8v2h6v2h-4v2h-2v2H2V8h2V6h2V4zm2 6h2V8H8v2z"
+  );
+  transform: scale(1);
+}
+[d="M14.8283 14.8283V20.4852L13.0606 22.2529L11.9999 17.6568L14.8283 14.8283Z"] {
+  d: path(
+    "M6 4h14v2h2v6h-8v2h6v2h-4v2h-2v2H2V8h2V6h2V4zm2 6h2V8H8v2z"
+  );
+  transform: scale(1);
+}
 
 /* Facetime Icon */
 [d="M21.526 8.149C21.231 7.966 20.862 7.951 20.553 8.105L18 9.382V7C18 5.897 17.103 5 16 5H4C2.897 5 2 5.897 2 7V17C2 18.104 2.897 19 4 19H16C17.103 19 18 18.104 18 17V14.618L20.553 15.894C20.694 15.965 20.847 16 21 16C21.183 16 21.365 15.949 21.526 15.851C21.82 15.668 22 15.347 22 15V9C22 8.653 21.82 8.332 21.526 8.149Z"] {
@@ -706,7 +784,7 @@ foreignObject[mask*="url(#"] {
 .icon-JRJzJz {
   background-image: url("https://files.catbox.moe/yw6ssh.svg") !important;
   transform: scale(1.5, 1.5);
-  filter: invert(48%);
+  filter: invert(55%) sepia(100%);
 }
 
 /* "OH BOY A NEW UPDATE, HOPE NO CLASSES BROKE THIS TIME" Icon */
@@ -826,9 +904,13 @@ foreignObject[mask*="url(#"] {
 .theme-dark .form-3gdLxP:before {
 display: none;
 }
+.theme-dark .autocomplete-3NRXG8 {
+  background-color: var(--projectCabBackground2);
+  border: var(--borders);
+}
 
 /* Sidebar */
-.scroller-WSmht3, .container-YkUktl, .scroller-1ox3I2 {
+.scroller-WSmht3, .container-YkUktl, .scroller-1ox3I2, .container-1zzFcN {
   border-right: var(--borders);
 }
 
@@ -864,4 +946,38 @@ display: none;
 /* Quick User Settings */
 .button-12Fmur {
   color: var(--accent);
+}
+
+/* Call DMs */
+.root-22AK9z {
+  background-color: var(--projectCabBackground);
+}
+
+/* Context Menu */
+.scroller-nxCRu_ {
+  background-color: var(--projectCabBackground2);
+  border: var(--borders);
+}
+
+/* Pins */
+.messagesPopoutWrap-3zryHW {
+  background-color: var(--projectCabBackground2);
+  border: var(--borders);
+}
+.footer-5ji8u1, .header-1w9Q93 {
+  background-color: var(--projectCabBackground2);
+}
+
+/* Inbox */
+.channelHeader-DFRX8q, .messageContainer-3VTXBC {
+  background-color: var(--projectCabBackground2);
+}
+
+/* Emojis */
+.contentWrapper-3vHNP2 {
+  background-color: var(--projectCabBackground2);
+  border: var(--borders);
+}
+.header-1ULbqO, .inspector-DFKXwB, .unicodeShortcut-3N8oDe, .emojiPickerHasTabWrapper-LoluYe .categoryList-2qRrlj, .categoryItemDefaultCategorySelected-2YeRUu, .categoryItemDefaultCategorySelected-2YeRUu:hover {
+  background-color: var(--projectCabBackground2);
 }
