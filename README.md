@@ -11,3 +11,13 @@
 ![SCR-20230809-pzch](https://github.com/SlippingGittys-Discord-Themes/projectCab/assets/76500838/813c56aa-f7cc-4df3-93b7-c4d9ee22178c)
 
 </details>
+
+## How to use 📖
+### Discord App
+
+* BetterDiscord, Vencord, and Openasar users can grab the [notheme.theme.css](https://raw.githubusercontent.com/SlippingGittys-Discord-Themes/Notheme/main/no.theme.css?token=GHSAT0AAAAAACF6UHXWNYK5MH4PZQ75THHIZGWMXPA) file and either
+  * Place the file in the BetterDiscord themes folder
+  * Follow the instructions on Vencord's themes tab
+  * Copy the text in the file, and paste it in Openasar's quick CSS text field
+* Replugged users can
+  * Open a terminal in the themes folder and type `git clone https://github.com/SlippingGittys-Discord-Themes/Notheme`
