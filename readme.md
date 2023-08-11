@@ -15,7 +15,7 @@
 ## how to use 📖
 ### discord App
 
-* betterDiscord, vencord, and openasar users can grab the [no.theme.css](https://raw.githubusercontent.com/SlippingGittys-Discord-Themes/Notheme/main/no.theme.css) file and either
+* betterdiscord, vencord, and openasar users can grab the [no.theme.css](https://raw.githubusercontent.com/SlippingGittys-Discord-Themes/Notheme/main/no.theme.css) file and either
   * place the file in the betterdiscord themes folder
   * follow the instructions on vencord's themes tab
   * copy the text in the file, and paste it in openasar's quick css text field
