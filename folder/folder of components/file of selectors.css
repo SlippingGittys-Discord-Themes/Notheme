@@ -1,0 +1,128 @@
+/* The faux title bar itself */
+.typeMacOS-3V4xXE {
+  position: relative;
+  width: 100%;
+  height: 35px;
+}
+
+.theme-dark .typeMacOS-3V4xXE {
+  background: var(--projectCabFauxTitleBar);
+}
+
+.platform-osx .wrapper-1_HaEi {
+  margin: 0;
+  padding: 0;
+}
+
+/* Title Bar */
+.theme-dark .themed-Hp1KC_ {
+  background-color: var(--projectCabTitleBar);
+  border-bottom: var(--borders);
+}
+
+.theme-dark .children-3xh0VB:after {
+  display: none;
+}
+
+/* Chat Text Box Entering Area */
+.scrollableContainer-15eg7h {
+  border: var(--borders);
+  padding-bottom: 2px;
+}
+
+.theme-dark .form-3gdLxP:before {
+  display: none;
+}
+
+.theme-dark .autocomplete-3NRXG8 {
+  background-color: var(--projectCabBackground2);
+  border: var(--borders);
+}
+
+/* Sidebar */
+.scroller-WSmht3,
+.container-YkUktl,
+.scroller-1ox3I2,
+.container-1zzFcN {
+  border-right: var(--borders);
+}
+
+.chatContent-3KubbW {
+  min-height: 0;
+  overflow: hidden;
+}
+
+/* Scroll Bar */
+.auto-2TJ1RH::-webkit-scrollbar {
+  display: none;
+}
+
+/* Buttons */
+.wrapper-2vIMkT {
+  background: black;
+}
+
+/* Channel */
+.modeSelected-3DmyhH .link-1_kTxV,
+.modeSelected-3DmyhH:hover .link-1_kTxV,
+.interactiveSelected-29CP8y {
+  border: var(--borders);
+}
+
+.membersWrap-3NUR2t {
+  border: var(--borders);
+  margin: 10px;
+}
+
+.container-2o3qEW,
+.membersWrap-3NUR2t {
+  background-color: var(--projectCabBackground);
+}
+
+/* Quick User Settings */
+.button-12Fmur {
+  color: var(--accent);
+}
+
+/* Call DMs */
+.root-22AK9z {
+  background-color: var(--projectCabBackground);
+}
+
+/* Context Menu */
+.scroller-nxCRu_ {
+  background-color: var(--projectCabBackground2);
+  border: var(--borders);
+}
+
+/* Pins */
+.messagesPopoutWrap-3zryHW {
+  background-color: var(--projectCabBackground2);
+  border: var(--borders);
+}
+
+.footer-5ji8u1,
+.header-1w9Q93 {
+  background-color: var(--projectCabBackground2);
+}
+
+/* Inbox */
+.channelHeader-DFRX8q,
+.messageContainer-3VTXBC {
+  background-color: var(--projectCabBackground2);
+}
+
+/* Emojis */
+.contentWrapper-3vHNP2 {
+  background-color: var(--projectCabBackground2);
+  border: var(--borders);
+}
+
+.header-1ULbqO,
+.inspector-DFKXwB,
+.unicodeShortcut-3N8oDe,
+.emojiPickerHasTabWrapper-LoluYe .categoryList-2qRrlj,
+.categoryItemDefaultCategorySelected-2YeRUu,
+.categoryItemDefaultCategorySelected-2YeRUu:hover {
+  background-color: var(--projectCabBackground2);
+}
