@@ -1,4 +1,4 @@
-/* ------ Black ------ */
+/* ------ black ------ */
 :root {
     --projectCabBackground: rgb(0, 0, 0);
     --projectCabBackground2: rgb(0, 0, 0);
@@ -12,6 +12,8 @@
     --projectCabSearch: rgb(21, 20, 25);
     --projectCabHover: var(--accent-focused);
   }
+
+/* colors */
   :root {
     --accent: rgb(124, 124, 124);
     --accent-hover: rgb(124, 124, 124, 0.977);
