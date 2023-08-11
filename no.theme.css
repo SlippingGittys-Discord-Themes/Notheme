@@ -23,13 +23,26 @@
 
 
 /*
------------Source---------
-> This is the core of the entire theme
-> It is essential that you do not touch this url, unless you know what you are doing.
+----------- source ---------
+> this is the core of the entire theme
+> it is essential that you do not touch any of these urls, unless you know what you are doing.
 */
+@import url('https://slippinggittys-discord-themes.github.io/Notheme/folder/folder of components/file of fonts.scss');
+@import url('https://slippinggittys-discord-themes.github.io/Notheme/folder/folder of components/file of icons.scss');
+@import url('https://slippinggittys-discord-themes.github.io/Notheme/folder/folder of components/file of selectors.scss'); 
+@import url('https://slippinggittys-discord-themes.github.io/Notheme/folder/folder of components/file of variables.scss');
+
+/*
+> ------- color palletes ------- <
+> this is a >>>dark theme<<< and a dark theme >>>>only<<<<
+> replace the last "___.css" with another color option (e.x: "classy.css", "sunset.css")
+> see choices here https://github.com/SlippingGittys-Discord-Themes/Notheme/tree/main/folder/folder%20of%20colors
+*/
+@import url('https://slippinggittys-discord-themes.github.io/Notheme/folder/folder of colors/black.css');
 
 /* 
 /////////////////////////////////////////
 //ADD YOUR OWN ADDITIONS BELLOW THIS LINE
 /////////////////////////////////////////
 */
+
