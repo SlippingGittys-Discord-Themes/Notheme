@@ -1,4 +1,4 @@
- /* ----- Hallows ------ */
+ /* ----- hallows ------ */
  :root {
     --projectCabBackground: rgba(15, 17, 28, 1);
     --projectCabBackground2: rgba(6, 8, 13, 1);
@@ -13,7 +13,7 @@
     --projectCabHover: var(--accent-focused);
   }
   
-  /* Colors */
+  /* colors */
   
   .theme-dark {
     --accent: rgba(237, 115, 46, 1);
