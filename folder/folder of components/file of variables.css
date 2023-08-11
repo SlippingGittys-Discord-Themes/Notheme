@@ -1,0 +1,21 @@
+:root {
+  --background-tertiary: var(--projectCabBackground2);
+  --background-secondary: var(--projectCabBackground2);
+  --background-secondary-alt: var(--projectCabBackground2);
+  --background-primary: var(--projectCabBackground);
+  --channeltextarea-background: var(--projectCabTextBackground);
+  --background-accent: var(--accent);
+  --background-modifier-hover: var(--projectCabHover);
+  --background-modifier-active: rgb(30, 30, 30);
+  --background-modifier-selected: var(--accent-selected);
+  --deprecated-card-bg: #12141f63;
+  --background-floating: rgba(35, 35, 35, 0.771);
+  --deprecated-quickswitcher-input-background: #101320;
+  --elevation-low: none;
+  --toast-background: #000000 !important;
+  --toast-header: #000000 !important;
+  --toast-contents: #000000 !important;
+  --brand-experiment-500: var(--accent-selected);
+  --brand-experiment-560: var(--accent-selected);
+  --brand-experiment: var(--accent);
+  }
