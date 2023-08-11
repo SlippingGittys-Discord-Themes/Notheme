@@ -12,7 +12,7 @@
     "type": "github",
     "id": "SlippingGittys-Discord-Themes/Notheme"
   },
-  "license": "MIT",
+  "license": "MS-PL",
   "type": "replugged-theme",
   "main": "no.theme.css"
 }
