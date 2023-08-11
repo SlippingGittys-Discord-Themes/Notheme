@@ -5,6 +5,9 @@
 
 <details>
 <summary>Click to show more color schemes 🎨</summary>
+  
 ![SCR-20230809-pzfe](https://github.com/SlippingGittys-Discord-Themes/projectCab/assets/76500838/f09d701f-100e-4d8b-a7af-2eba1cb2f7c1)
+  
 ![SCR-20230809-pzch](https://github.com/SlippingGittys-Discord-Themes/projectCab/assets/76500838/813c56aa-f7cc-4df3-93b7-c4d9ee22178c)
+
 </details>
