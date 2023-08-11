@@ -13,7 +13,7 @@
 </details>
 
 ## how to use 📖
-### discord App
+### discord app
 
 * betterdiscord, vencord, and openasar users can grab the [no.theme.css](https://raw.githubusercontent.com/SlippingGittys-Discord-Themes/Notheme/main/no.theme.css) file and either
   * place the file in the betterdiscord themes folder
