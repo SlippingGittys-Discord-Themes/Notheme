@@ -14,7 +14,7 @@ jobs:
       - name: Compile CSS from SCSS files
         uses: gha-utilities/sass-build@v0.4.9
         with:
-          source: folder/_file of indexing.scss
+          source: folder/_index.scss
           destination: folder/source.css
 
       - name: Add and Commit changes to build branch
