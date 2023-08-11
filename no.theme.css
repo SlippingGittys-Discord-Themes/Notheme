@@ -25,47 +25,6 @@
 > It is essential that you do not touch this url, unless you know what you are doing.
 */
 
-/*
-
-
-/*
------------Font---------
-> Designed by Nintendo for the Nintendo DS - https://www.dafont.com/nintendo-ds-bios.font
-*/
-
-@font-face {
-  font-family: "Nintendo DS BIOS Regular";
-  src: url("https://db.onlinewebfonts.com/t/1888b71aa651100801cb2e473433f5ec.eot");
-  src: url("https://db.onlinewebfonts.com/t/1888b71aa651100801cb2e473433f5ec.eot?#iefix")format("embedded-opentype"),
-    url("https://db.onlinewebfonts.com/t/1888b71aa651100801cb2e473433f5ec.woff2")format("woff2"),
-    url("https://db.onlinewebfonts.com/t/1888b71aa651100801cb2e473433f5ec.woff")format("woff"),
-    url("https://db.onlinewebfonts.com/t/1888b71aa651100801cb2e473433f5ec.ttf")format("truetype"),
-    url("https://db.onlinewebfonts.com/t/1888b71aa651100801cb2e473433f5ec.svg#Nintendo DS BIOS Regular")format("svg");
-}
-
-* {
-  --font-primary: Nintendo DS BIOS Regular;
-  --font-display: Nintendo DS BIOS Regular;
-  --font-headline: Nintendo DS BIOS Regular;
-  font-size: 20px !important;
-}
-
-.messageContent-2t3eCI {
-  font-size: 20px;
-}
-
-.compact-2Nkcau .headerText-2z4IhQ,
-.cozy-VmLDNB .headerText-2z4IhQ,
-.roleDot-PzIfeF,
-.username-h_Y3Us,
-.container-ZMc96U,
-.container-ZMc96U *,
-.name-2m3Cms,
-.headerText-1qIDDT,
-.searchBar-3TnChZ .searchBarComponent-3N7dCG {
-  font-size: 20px;
-}
-
 /* 
 /////////////////////////////////////////
 //ADD YOUR OWN ADDITIONS BELLOW THIS LINE
