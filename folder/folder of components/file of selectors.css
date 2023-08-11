@@ -1,3 +1,33 @@
+/* SVGS */
+.icon-2xnN2Y {
+  color: var(--accent) !important;
+}
+
+/* Square Off */
+* {
+  border-radius: 0 !important;
+}
+
+.scrollerBase-1Pkza4::-webkit-scrollbar-thumb,
+.scrollerBase-1Pkza4::-webkit-scrollbar-track,
+.webkit-QgSAqd::-webkit-scrollbar-thumb {
+  border-radius: 0;
+}
+
+.activitySectionAssets-1wpe42 .largeImageMask-2KA28T,
+.assetWrapperMasked-1iw9lV,
+.assetsLargeMaskStreamPreview--ugZjW,
+.assetsLargeMaskUserPopout-3N96A8,
+.assetsLargeMaskUserPopoutV2-2oZjbP,
+.assetsLargeMaskVoiceChannel-3IlDCA,
+.inspectedIndicator-27zwNZ,
+.loadingIndicator-3fKdTZ,
+.mask-2Me5HY rect,
+foreignObject[mask*="url(#"] {
+  mask: none;
+  -webkit-mask: none;
+}
+
 /* The faux title bar itself */
 .typeMacOS-3V4xXE {
   position: relative;
