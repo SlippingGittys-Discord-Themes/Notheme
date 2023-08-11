@@ -4,7 +4,7 @@
 
 
 <details>
-<summary>click to show more color schemes 🎨</summary>
+<summary>click to show more color schemes</summary>
   
 ![SCR-20230809-pzfe](https://github.com/SlippingGittys-Discord-Themes/projectCab/assets/76500838/f09d701f-100e-4d8b-a7af-2eba1cb2f7c1)
   
@@ -12,7 +12,7 @@
 
 </details>
 
-## how to use 📖
+## how to use 
 ### discord app
 
 * betterdiscord, vencord, and openasar users can grab the [no.theme.css](https://raw.githubusercontent.com/SlippingGittys-Discord-Themes/Notheme/main/no.theme.css) file and either
@@ -22,7 +22,7 @@
 * replugged users can
   * open a terminal in the themes folder and type `git clone https://github.com/SlippingGittys-Discord-Themes/Notheme`
 
-## devs, contributors, and credits ✍️
+## devs, contributors, and credits
 | <a href="https://github.com/SlippingGitty" target="_blank"> <img src="https://avatars.githubusercontent.com/u/76500838?s=460&u=109f1c2012f3e452251391807262ed098f45ec94&v=4" alt="" width="96px" height="96px"> </a> |
 |:-:|
 | vozer | 
