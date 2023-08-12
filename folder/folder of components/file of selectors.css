@@ -126,7 +126,7 @@ foreignObject[mask*="url(#"] {
 }
 
 /* Pins */
-.messagesPopoutWrap-3zryHW {
+.messagesPopoutWrap-3zryHW, .messageGroupWrapper-1jf_7C .messageGroupCozy-3v_RqN {
   background-color: var(--projectCabBackground2);
   border: var(--borders);
 }
