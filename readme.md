@@ -1,7 +1,5 @@
 ![notheme](https://github.com/SlippingGittys-Discord-Themes/Notheme/assets/76500838/1dfd66d5-62ef-4432-bca6-831568a898be)
-<img width="1403" alt="png" src="https://github.com/SlippingGittys-Discord-Themes/Notheme/assets/76500838/acc4c4b6-1e43-4f10-8082-edd9e0c36aa3">
-
-
+<img width="1585" alt="image" src="https://github.com/SlippingGittys-Discord-Themes/Notheme/assets/76500838/2d146638-2468-4be4-8d40-82bafb8d71a9">
 
 <details>
 <summary>click to show more color schemes</summary>
