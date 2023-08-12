@@ -1,14 +1,16 @@
-![notheme](https://github.com/SlippingGittys-Discord-Themes/Notheme/assets/76500838/fabac83d-db13-4c8d-8ae2-07a705812909)
-<img width="1680" alt="image" src="https://github.com/SlippingGittys-Discord-Themes/Notheme/assets/76500838/c1fc9782-5f11-4e35-84a4-faa753723885">
+![notheme](https://github.com/SlippingGittys-Discord-Themes/Notheme/assets/76500838/1dfd66d5-62ef-4432-bca6-831568a898be)
+<img width="1403" alt="png" src="https://github.com/SlippingGittys-Discord-Themes/Notheme/assets/76500838/acc4c4b6-1e43-4f10-8082-edd9e0c36aa3">
 
 
 
 <details>
 <summary>click to show more color schemes</summary>
-  
-![SCR-20230809-pzfe](https://github.com/SlippingGittys-Discord-Themes/projectCab/assets/76500838/f09d701f-100e-4d8b-a7af-2eba1cb2f7c1)
-  
-![SCR-20230809-pzch](https://github.com/SlippingGittys-Discord-Themes/projectCab/assets/76500838/813c56aa-f7cc-4df3-93b7-c4d9ee22178c)
+
+![SCR-20230809-pzfe](https://github.com/SlippingGittys-Discord-Themes/Notheme/assets/76500838/7260c77d-2cb8-4ce6-b63f-e91b4d2e42d7)
+
+![SCR-20230809-pzch](https://github.com/SlippingGittys-Discord-Themes/Notheme/assets/76500838/a3bd211b-be35-4209-a9c4-66844c0bcef6)
+
+![SCR-20230809-pyxc](https://github.com/SlippingGittys-Discord-Themes/Notheme/assets/76500838/6a0e669f-2649-4ed1-9ed1-7c8c838a1fb6)
 
 </details>
 
