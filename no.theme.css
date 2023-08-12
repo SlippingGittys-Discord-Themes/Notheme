@@ -23,14 +23,17 @@
 
 
 /*
-> ------------- source --------- <
+----------- source ---------
 > this is the core of the entire theme
 > it is essential that you do not touch any of these urls, unless you know what you are doing.
 */
 @import url('https://slippinggittys-discord-themes.github.io/Notheme/folder/folder%20of%20components/file%20of%20fonts.css');
 @import url('https://slippinggittys-discord-themes.github.io/Notheme/folder/folder%20of%20components/file%20of%20icons.css');
+@import url('https://slippinggittys-discord-themes.github.io/Notheme/folder/folder%20of%20components/file%20with%20radial%20status.css');
 @import url('https://slippinggittys-discord-themes.github.io/Notheme/folder/folder%20of%20components/file%20of%20selectors.css'); 
 @import url('https://slippinggittys-discord-themes.github.io/Notheme/folder/folder%20of%20components/file%20of%20variables.css');
+
+
 
 /*
 > ------- color palletes ------- <
@@ -45,4 +48,6 @@
 //ADD YOUR OWN ADDITIONS BELLOW THIS LINE
 /////////////////////////////////////////
 */
+
+
 
