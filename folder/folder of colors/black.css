@@ -3,13 +3,8 @@
     --projectCabBackground: rgb(0, 0, 0);
     --projectCabBackground2: rgb(0, 0, 0);
     --projectCabTextBackground: rgb(0, 0, 0);
-    --projectCabFriendsBackground: rgb(20, 20, 22);
-    --projectCabFriends: rgb(27, 26, 31);
-    --projectCabActiveNow: rgb(46, 45, 45 0.276);
-    --projectCabGuilds: rgb(27, 26, 31);
     --projectCabTitleBar: rgb(0, 0, 0);
     --projectCabFauxTitleBar: rgb(0, 0, 0);
-    --projectCabSearch: rgb(21, 20, 25);
     --projectCabHover: var(--accent-focused);
   }
 
@@ -19,9 +14,6 @@
     --accent-hover: rgb(124, 124, 124, 0.977);
     --accent-selected: rgba(124, 124, 124, 0.216);
     --accent-focused: rgb(124, 124, 124, 0.200);
-    --accent-fob: rgba(237, 115, 46, 1);
-    --accent-keys: rgba(198, 168, 55, 1);
-    --accent-keys-light: rgba(141, 172, 200, 1);
     --accent-titles: rgba(198, 168, 55, 1);
     --borders: rgba(124, 124, 124, 1) 2px dotted;
   }
