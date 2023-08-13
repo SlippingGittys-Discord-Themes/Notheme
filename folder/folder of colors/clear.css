@@ -1,0 +1,41 @@
+/*
+        _                                                   _            
+       | |                                        |        | |    o      
+    _  | |  _   __,   ,   _     ,_    _   __,   __|    _|_ | |        ,  
+  |/ \_|/  |/  /  |  / \_|/    /  |  |/  /  |  /  |     |  |/ \   |  / \_
+  |__/ |__/|__/\_/|_/ \/ |__/     |_/|__/\_/|_/\_/|_/   |_/|   |_/|_/ \/ 
+ /|                                                                      
+ \|                                                                      
+                                                                   
+-----------------------* instructions *----------------------------
+-
+- * replacing the background image is quite simple
+-   > upload your desired image to an image hosting service, like catbox or imgur
+-   > replace the url bellow with a link to that image
+-   > optionally, you can change the background and accent colors + their opacity by messing with the varriables bellow
+*/
+
+/* ------ clear ------ */
+:root {
+       --projectCabBackground: rgba(0, 0, 0, 0, 0.500);
+       --projectCabBackground2: rgba(0, 0, 0, 0.500);
+       --projectCabTextBackground: rgb(0, 0, 0, 0.600);
+       --projectCabTitleBar: rgb(0, 0, 0, 0.500);
+       --projectCabFauxTitleBar: rgb(0, 0, 0, 0.900);
+       --projectCabHover: var(--accent-focused);
+}
+
+/* colors */
+:root {
+       --accent: rgb(124, 124, 124);
+       --accent-hover: rgb(124, 124, 124, 0.977);
+       --accent-selected: rgba(124, 124, 124, 0.216);
+       --accent-focused: rgb(124, 124, 124, 0.200);
+       --borders: rgba(124, 124, 124, 1) 2px dotted;
+}
+
+body {
+       background-image: url("https://files.catbox.moe/4jk6at.jpg");
+       /* replace this url with one that points to your desired background image */
+       background-size: cover;
+}
