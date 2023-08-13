@@ -1,37 +1,46 @@
-/*
------------Font---------
-> Designed by Nintendo for the Nintendo DS - https://www.dafont.com/nintendo-ds-bios.font
-*/
-
 @font-face {
-    font-family: "Nintendo DS BIOS Regular";
-    src: url("https://db.onlinewebfonts.com/t/1888b71aa651100801cb2e473433f5ec.eot");
-    src: url("https://db.onlinewebfonts.com/t/1888b71aa651100801cb2e473433f5ec.eot?#iefix")format("embedded-opentype"),
-        url("https://db.onlinewebfonts.com/t/1888b71aa651100801cb2e473433f5ec.woff2")format("woff2"),
-        url("https://db.onlinewebfonts.com/t/1888b71aa651100801cb2e473433f5ec.woff")format("woff"),
-        url("https://db.onlinewebfonts.com/t/1888b71aa651100801cb2e473433f5ec.ttf")format("truetype"),
-        url("https://db.onlinewebfonts.com/t/1888b71aa651100801cb2e473433f5ec.svg#Nintendo DS BIOS Regular")format("svg");
-}
-
-* {
-    --font-primary: Nintendo DS BIOS Regular;
-    --font-display: Nintendo DS BIOS Regular;
-    --font-headline: Nintendo DS BIOS Regular;
-        font-size: 20px !important;
-}
-
-.messageContent-2t3eCI {
-    font-size: 20px;
-}
-
-.compact-2Nkcau .headerText-2z4IhQ,
-.cozy-VmLDNB .headerText-2z4IhQ,
-.roleDot-PzIfeF,
-.username-h_Y3Us,
-.container-ZMc96U,
-.container-ZMc96U *,
-.name-2m3Cms,
-.headerText-1qIDDT,
-.searchBar-3TnChZ .searchBarComponent-3N7dCG {
-    font-size: 20px;
-}
+       font-family: "Nintendo DS BIOS Regular";
+       src: url("https://db.onlinewebfonts.com/t/1888b71aa651100801cb2e473433f5ec.eot");
+       src: url("https://db.onlinewebfonts.com/t/1888b71aa651100801cb2e473433f5ec.eot?#iefix")format("embedded-opentype"),
+           url("https://db.onlinewebfonts.com/t/1888b71aa651100801cb2e473433f5ec.woff2")format("woff2"),
+           url("https://db.onlinewebfonts.com/t/1888b71aa651100801cb2e473433f5ec.woff")format("woff"),
+           url("https://db.onlinewebfonts.com/t/1888b71aa651100801cb2e473433f5ec.ttf")format("truetype"),
+           url("https://db.onlinewebfonts.com/t/1888b71aa651100801cb2e473433f5ec.svg#Nintendo DS BIOS Regular")format("svg");
+   }
+   
+   * {
+       --font-primary: Nintendo DS BIOS Regular;
+       --font-display: Nintendo DS BIOS Regular;
+       --font-headline: Nintendo DS BIOS Regular;
+   }
+   
+   .messageContent-2t3eCI {
+       font-size: 20px;
+   }
+   
+   .compact-2Nkcau .headerText-2z4IhQ,
+   .cozy-VmLDNB .headerText-2z4IhQ,
+   .roleDot-PzIfeF,
+   .username-h_Y3Us,
+   .container-ZMc96U,
+   .container-ZMc96U *,
+   .name-2m3Cms,
+   .headerText-1qIDDT,
+   .searchBar-3TnChZ .searchBarComponent-3N7dCG,
+   .fontSize16Padding-XoMpjI,
+   .numberBadge-37OJ3S,
+   .labelContainer-35-WEd,
+   .side-1lrxIh .item-2GWPIy,
+   .description-foE_WP, .labelDescriptor-2top7R,
+   .h5-2feg8J, .label-7akf7-, .legend-3BgtI3,
+   .app-2CXKsg button,
+   .title-338goq,
+   .name-28HaxV,
+   .base-3bcbY3 .text-3S7XCz,
+   .overflow-1wOqNV,
+   .name-3Uvkvr,
+   .repliedTextPreview-1bvxun.clickable-31pE3P,
+   .executedCommand-14-SNW .applicationName-19i3lP, .executedCommand-14-SNW .commandName-1KhvGm, .executedCommand-14-SNW .username-h_Y3Us, .repliedMessage-3Z6XBG .roleDot-PzIfeF, .repliedMessage-3Z6XBG .username-h_Y3Us, .threadMessageAccessory-2W9mjC .username-h_Y3Us,
+   .cozy-VmLDNB .timestamp-p1Df1m {
+       font-size: 20px;
+   }
