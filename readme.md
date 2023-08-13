@@ -5,10 +5,16 @@
 <details>
 <summary>click to show more color schemes</summary>
 
+### clear
+<img width="1557" alt="image" src="https://github.com/SlippingGittys-Discord-Themes/Notheme/assets/76500838/6f55c25b-8d4c-46b5-bb18-352dfd64df11">
+
+### classy
 ![SCR-20230809-pzfe](https://github.com/SlippingGittys-Discord-Themes/Notheme/assets/76500838/7260c77d-2cb8-4ce6-b63f-e91b4d2e42d7)
 
+### hallows
 ![SCR-20230809-pzch](https://github.com/SlippingGittys-Discord-Themes/Notheme/assets/76500838/a3bd211b-be35-4209-a9c4-66844c0bcef6)
 
+### black
 ![SCR-20230809-pyxc](https://github.com/SlippingGittys-Discord-Themes/Notheme/assets/76500838/6a0e669f-2649-4ed1-9ed1-7c8c838a1fb6)
 
 </details>
