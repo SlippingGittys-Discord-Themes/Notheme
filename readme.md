@@ -24,9 +24,9 @@
   * open a terminal in the themes folder and type `git clone https://github.com/SlippingGittys-Discord-Themes/Notheme`
 
 ## devs, contributors, and credits
-| <a href="https://github.com/SlippingGitty" target="_blank"> <img src="https://avatars.githubusercontent.com/u/76500838?s=460&u=109f1c2012f3e452251391807262ed098f45ec94&v=4" alt="" width="96px" height="96px"> </a> |
-|:-:|
-| vozer | 
+| <a href="https://github.com/SlippingGitty" target="_blank"> <img src="https://avatars.githubusercontent.com/u/76500838?s=460&u=109f1c2012f3e452251391807262ed098f45ec94&v=4" alt="" width="96px" height="96px"> </a> | <a href="https://pixelarticons.com/" target="_blank"> <img src="https://github.com/SlippingGittys-Discord-Themes/Notheme/assets/76500838/6c7f22fb-bf9a-4864-a1cd-8f6e0dde15d3" alt="" width="96px" height="96px"> </a> |
+|:-:| :-:|
+| vozer | pixelarticons | 
 
 ____
 #### updates server : https://discord.gg/na2GdxtD
