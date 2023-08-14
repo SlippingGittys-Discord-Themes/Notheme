@@ -237,3 +237,9 @@ input[type="checkbox"] {
 .scroller-145h9c {
        background-color: var(--projectCabBackground2);
 }
+
+/* Jump to Present Bar */
+.jumpToPresentBar-1cEnH0 {
+       border: var(--borders);
+       background-color: var(--projectCabBackground2);
+}
