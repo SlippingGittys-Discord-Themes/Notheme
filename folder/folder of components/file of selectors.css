@@ -207,3 +207,33 @@ input[type="checkbox"] {
 .theme-dark .checkbox-f1HnKB {
     display: none;
 }
+
+/* Popouts */
+.popoutContainer-2wbmiM,
+.popoutContent-3RWpUF,
+.messages-23can0,
+.container-2ebMPP,
+.container-_dQaft {
+       border: var(--borders);
+       background-color: var(--projectCabBackground2);
+}
+
+.guildSection-2Zyzy8,
+.container-1A0qQO {
+       background-color: var(--projectCabBackground2);
+}
+
+/* Activity Now */
+.itemCard-3Etziu {
+       border: var(--borders);
+}
+
+/* User Popouts */
+.userPanelOverlayBackground-3Zmcq2,
+.scroller-145h9c {
+       border: var(--borders);
+}
+
+.scroller-145h9c {
+       background-color: var(--projectCabBackground2);
+}
