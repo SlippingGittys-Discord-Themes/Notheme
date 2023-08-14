@@ -11,7 +11,7 @@
 ### classy
 ![SCR-20230809-pzfe](https://github.com/SlippingGittys-Discord-Themes/Notheme/assets/76500838/7260c77d-2cb8-4ce6-b63f-e91b4d2e42d7)
 
-### hallows
+### sunset
 ![SCR-20230809-pzch](https://github.com/SlippingGittys-Discord-Themes/Notheme/assets/76500838/a3bd211b-be35-4209-a9c4-66844c0bcef6)
 
 ### black
