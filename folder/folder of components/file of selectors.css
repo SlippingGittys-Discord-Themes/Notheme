@@ -243,3 +243,12 @@ input[type="checkbox"] {
        border: var(--borders);
        background-color: var(--projectCabBackground2);
 }
+
+/* Code */
+.grid-1aWVsE,
+.markup-eYLPri code,
+.attachment-1PZZB2,
+.theme-dark .wrapperAudio-1Bzv_Z,
+.markup-eYLPri code.inline {
+       border: var(--borders);
+}
