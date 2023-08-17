@@ -1,1 +1,54 @@
+@-moz-document domain("discord.com") {
+    /* ==UserStyle==
+    @name         notheme
+    @description  a discord theme inspired by... nothing at all
+    @author       vozer
+    @namespace    https://github.com/SlippingGitty/Notheme
+    @version      1.0.0
+    ==/UserStyle== */
+
+/*
+69 74 73  61  74 68 65 6D 65  69 6E 73 70 69 72 65 64  62 79  6E 6F 74 68 69 6E 67 
+                                                                                           
+                                  88                                                       
+                           ,d     88                                                       
+                           88     88                                                       
+8b,dPPYba,    ,adPPYba,  MM88MMM  88,dPPYba,    ,adPPYba,  88,dPYba,,adPYba,    ,adPPYba,  
+88P'   `"8a  a8"     "8a   88     88P'    "8a  a8P_____88  88P'   "88"    "8a  a8P_____88  
+88       88  8b       d8   88     88       88  8PP"""""""  88      88      88  8PP"""""""  
+88       88  "8a,   ,a8"   88,    88       88  "8b,   ,aa  88      88      88  "8b,   ,aa  
+88       88   `"YbbdP"'    "Y888  88       88   `"Ybbd8"'  88      88      88   `"Ybbd8"'  
+                                                                                           
+                                                                                           
+77 68 79  61 72 65  79 6F 75  74 72 61 6E 73 6C 61 74 65  74 68 69 73 2C  74 68 65 72 65 73  6E 6F 74 68 69 6E 67  68 65 72 65 
+
+
+/*
+----------- source ---------
+> this is the core of the entire theme
+> it is essential that you do not touch any of these urls, unless you know what you are doing.
+*/
+@import url('https://slippinggittys-discord-themes.github.io/Notheme/folder/folder%20of%20components/file%20of%20fonts.css');
+@import url('https://slippinggittys-discord-themes.github.io/Notheme/folder/folder%20of%20components/file%20of%20icons.css');
+@import url('https://slippinggittys-discord-themes.github.io/Notheme/folder/folder%20of%20components/file%20with%20radial%20status.css');
+@import url('https://slippinggittys-discord-themes.github.io/Notheme/folder/folder%20of%20components/file%20of%20selectors.css'); 
+@import url('https://slippinggittys-discord-themes.github.io/Notheme/folder/folder%20of%20components/file%20of%20variables.css');
+
+
+
+/*
+> ------- color palletes ------- <
+> this is a >>>dark theme<<< and a dark theme >>>>only<<<<
+> replace the last "___.css" with another color option (e.x: "classy.css", "sunset.css")
+> see choices here https://github.com/SlippingGittys-Discord-Themes/Notheme/tree/main/folder/folder%20of%20colors
+*/
+@import url('https://slippinggittys-discord-themes.github.io/Notheme/folder/folder%20of%20colors/black.css');
+
+/* 
+/////////////////////////////////////////
+//ADD YOUR OWN ADDITIONS BELLOW THIS LINE
+/////////////////////////////////////////
+*/
+
+}
 
