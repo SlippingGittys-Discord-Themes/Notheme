@@ -26,8 +26,6 @@
   * place the file in the betterdiscord themes folder
   * follow the instructions on vencord's themes tab
   * copy the text in the file, and paste it in openasar's quick css text field
-* replugged users can
-  * open a terminal in the themes folder and type `git clone https://github.com/SlippingGittys-Discord-Themes/Notheme`
 
  ### web browser 
   * [![](https://img.shields.io/badge/install%20with-stylus-006666?style=flat-square)](https://github.com/SlippingGittys-Discord-Themes/notheme/raw/main/notheme.user.css)
