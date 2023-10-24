@@ -29,13 +29,13 @@ foreignObject[mask*="url(#"] {
 }
 
 /* The faux title bar itself */
-.typeMacOS-3V4xXE {
+.typeMacOS-zzjqOo {
   position: relative;
   width: 100%;
   height: 35px;
 }
 
-.theme-dark .typeMacOS-3V4xXE {
+.theme-dark .typeMacOS-zzjqOo {
   background: var(--projectCabFauxTitleBar);
 }
 
@@ -73,7 +73,8 @@ foreignObject[mask*="url(#"] {
 .scroller-WSmht3,
 .container-YkUktl,
 .scroller-1ox3I2,
-.container-1zzFcN {
+.container-1zzFcN,
+.container-1CH86i {
   border-right: var(--borders);
 }
 
