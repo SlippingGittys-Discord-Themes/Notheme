@@ -14,50 +14,50 @@
        --font-headline: Nintendo DS BIOS Regular;
 }
 
-.messageContent-2t3eCI {
+.messageContent__21e69 {
        font-size: 20px;
 }
 
-.compact-2Nkcau .headerText-2z4IhQ,
-.cozy-VmLDNB .headerText-2z4IhQ,
-.roleDot-PzIfeF,
-.username-h_Y3Us,
-.container-ZMc96U,
-.container-ZMc96U *,
-.name-2m3Cms,
-.headerText-1qIDDT,
-.searchBar-3TnChZ .searchBarComponent-3N7dCG,
-.fontSize16Padding-XoMpjI,
-.numberBadge-37OJ3S,
-.labelContainer-35-WEd,
-.side-1lrxIh .item-2GWPIy,
-.description-foE_WP,
-.labelDescriptor-2top7R,
-.h5-2feg8J,
-.label-7akf7-,
-.legend-3BgtI3,
-.app-2CXKsg button,
-.title-338goq,
-.name-28HaxV,
-.base-3bcbY3 .text-3S7XCz,
-.overflow-1wOqNV,
-.name-3Uvkvr,
-.repliedTextPreview-1bvxun.clickable-31pE3P,
-.executedCommand-14-SNW .applicationName-19i3lP,
-.executedCommand-14-SNW .commandName-1KhvGm,
-.executedCommand-14-SNW .username-h_Y3Us,
-.repliedMessage-3Z6XBG .roleDot-PzIfeF,
-.repliedMessage-3Z6XBG .username-h_Y3Us,
-.threadMessageAccessory-2W9mjC .username-h_Y3Us,
-.cozy-VmLDNB .timestamp-p1Df1m,
-.embedAuthor-TJIHp5,
-.embedDescription-1DrJxZ,
-.embedFields-2yHGHT,
-.embedFooter-3dj0UE,
-.embedMedia-1mdWSP,
-.embedProvider-1GSN0c,
+.compact__54ecc .headerText_f47574,
+.cozy_f5c119 .headerText_f47574,
+.roleDot_c01716,
+.username_d30d99,
+.container__11d72,
+.container__11d72 *,
+.name__02dbd,
+.headerText__051c0,
+.searchBar_e4ea2a .searchBarComponent__22760,
+.fontSize16Padding__48818,
+.numberBadge__50328,
+.labelContainer_bc2861,
+.side_b4b3f6 .item__48dda,
+.description__7af71,
+.labelDescriptor__6432e,
+.h5__884a2,
+.label__5447e,
+.legend__31ccc,
+.app__00c92 button,
+.title__10613,
+.name__8d1ec,
+.base__512ed .text_ca54e9,
+.overflow__87fe8,
+.name_c08dbc,
+.repliedTextPreview__90311.clickable_d866f1,
+.executedCommand_e8859a .applicationName__359c6,
+.executedCommand_e8859a .commandName_a0875b,
+.executedCommand_e8859a .username_d30d99,
+.repliedMessage_e2bf4a .roleDot_c01716,
+.repliedMessage_e2bf4a .username_d30d99,
+.threadMessageAccessory__33bc1 .username_d30d99,
+.cozy_f5c119 .timestamp_cdbd93,
+.embedAuthor_cb4bfc,
+.embedDescription__33443,
+.embedFields__51397,
+.embedFooter_a8f9aa,
+.embedMedia_b473d2,
+.embedProvider_cfa718,
 .embedTitle-2n1pE,
-.overlayBackground-2aa7wt * {
+.overlayBackground__86b78 * {
        font-size: 20px;
 }
 
@@ -74,13 +74,13 @@
 }
 
 code,
-.codeBlockText-28BOxV,
-.codeLine-2C-9aH,
-.markup-eYLPri code.inline,
-.after_inlineCode-2_JXPm,
-.before_inlineCode-1zngJj,
-.inlineCode-ERyvy_,
-.markup-eYLPri code {
+.codeBlockText__6172e,
+.codeLine__3797b,
+.markup_a7e664 code.inline,
+.after_inlineCode__2197d,
+.before_inlineCode__37e14,
+.inlineCode_d702a4,
+.markup_a7e664 code {
        font-family: "monogram", monospace;
        font-size: 20px;
 }
