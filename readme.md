@@ -1,7 +1,6 @@
 ![notheme](https://github.com/SlippingGittys-Discord-Themes/Notheme/assets/76500838/1dfd66d5-62ef-4432-bca6-831568a898be)
 <img width="1588" alt="a screenshot" src="https://github.com/SlippingGittys-Discord-Themes/Notheme/assets/76500838/9b809478-66ea-410a-9c9e-8a19c5755dcd">
 
-
 <details>
 <summary>click to show more color schemes</summary>
 
@@ -18,6 +17,9 @@
 ![SCR-20230809-pyxc](https://github.com/SlippingGittys-Discord-Themes/Notheme/assets/76500838/6a0e669f-2649-4ed1-9ed1-7c8c838a1fb6)
 
 </details>
+
+## temporary icon fix w/ experiments
+<img width="856" alt="image" src="https://github.com/SlippingGittys-Discord-Themes/surCord/assets/76500838/3d4cd16c-d6aa-4c3b-8c9f-6df65462d186">
 
 ## how to use 
 ### discord app
