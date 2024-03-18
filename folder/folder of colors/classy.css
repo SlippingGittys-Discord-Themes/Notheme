@@ -22,10 +22,10 @@
   --borders: rgb(255, 255, 255)  2px dotted;
 }
 
-.theme-dark .username-h_Y3Us, .theme-dark .messageContent-2t3eCI, .header-1dhDWV, .marginBottom20-315RVT, .username-3_PJ5r, .typing-2J1mQU, .username-Qpc78p, .text-MPIeXO, .title-x4dI75, .header-Imy05m, .textContent-TsKzji, .subtext-xfubwR {
+.theme-dark .username-h_Y3Us, .theme-dark .messageContent-2t3eCI, .header-1dhDWV, .marginBottom20-315RVT, .username-3_PJ5r, .typing-2J1mQU, .username-Qpc78p, .text-MPIeXO, .title-x4dI75, .header-Imy05m, .textContent-TsKzji, .subtext-xfubwR, .cozy_f5c119 .messageContent__21e69, .username_d30d99,.username__81ee6, .header__123bf, .title_dc625c, .text__1dddb {
        color: black;
 }
 
-.circleIconButton-1VxDrg, .childWrapper-1j_1ub, .button-1EGGcP.buttonColor-3bP3fX, .button-1EGGcP .buttonColor-3bP3fX, .root-22AK9z {
+.circleIconButton-1VxDrg, .childWrapper-1j_1ub, .button-1EGGcP.buttonColor-3bP3fX, .button-1EGGcP .buttonColor-3bP3fX, .root-22AK9z, .circleIconButton_d8df29, .ring__349e5,.section_efc22d:only-child {
   background-color: black;
 }
