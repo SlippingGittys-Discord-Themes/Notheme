@@ -22,10 +22,10 @@
   --borders: rgb(255, 255, 255)  2px dotted;
 }
 
-.theme-dark .username__0b0e7, .theme-dark .messageContent_abea64, .header_abc647, .marginBottom20__9fcf3, .username_d272d6, .typing__6fd1d, .username__267df, .text_bd79a3, .title_c42cad, .header_c56a27, .textContent_e33074, .subtext__72c72, .cozy_f5c119 .messageContent_abea64, .username__0b0e7,.username__267df, .header_c56a27, .title_c42cad, .text_bd79a3 {
+.theme-dark .username_ec86aa, .theme-dark .messageContent_ec86aa, .header_c2668b, .marginBottom20_f7730b, .username_d272d6, .typing_d7ebeb, .username_f3939d, .text_f7ebfd, .title_a1cafe, .header_bf550a, .textContent_cd82a7, .subtext_f3939d, .cozy_ec86aa .messageContent_ec86aa, .username_ec86aa,.username_f3939d, .header_bf550a, .title_a1cafe, .text_f7ebfd {
        color: black;
 }
 
-.circleIconButton__05cf2, .childWrapper_a6ce15, .button_b82d53.buttonColor__7bad9, .button_b82d53 .buttonColor__7bad9, .root__3eef0, .circleIconButton__05cf2, .ring__349e5,.section__253ec:only-child {
+.circleIconButton_db6521, .childWrapper_a6ce15, .button_adcaac.buttonColor_adcaac, .button_adcaac .buttonColor_adcaac, .root_dd069c, .circleIconButton_db6521, .ring_dcc7a4,.section_cd82a7:only-child {
   background-color: black;
 }
