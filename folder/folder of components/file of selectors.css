@@ -3,7 +3,7 @@
   color: var(--accent) !important;
 }
 
-/* Square Off */
+/* Square Off */ 
 * {
   border-radius: 0 !important;
 }
