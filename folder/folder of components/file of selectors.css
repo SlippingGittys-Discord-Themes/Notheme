@@ -1,5 +1,5 @@
 /* SVGS */
-.icon_e44302 {
+.icon_fc4f04 {
   color: var(--accent) !important;
 }
 
@@ -16,10 +16,10 @@
 
 .activitySectionAssets_cd82a7 .largeImageMask_cd82a7,
 .assetWrapperMasked_cb3343,
-.assetsLargeMaskStreamPreview_d5089b,
-.assetsLargeMaskUserPopout_d5089b,
-.assetsLargeMaskUserPopoutV2_d5089b,
-.assetsLargeMaskVoiceChannel_d5089b,
+.assetsLargeMaskStreamPreview_c1d9fd,
+.assetsLargeMaskUserPopout_c1d9fd,
+.assetsLargeMaskUserPopoutV2_c1d9fd,
+.assetsLargeMaskVoiceChannel_c1d9fd,
 .inspectedIndicator_a708c4,
 .loadingIndicator_cb3343,
 .mask-2Me5HY rect,
@@ -45,12 +45,12 @@ foreignObject[mask*="url(#"] {
 }
 
 /* Title Bar */
-.theme-dark .themed_e44302 {
+.theme-dark .themed_fc4f04 {
   background-color: var(--projectCabTitleBar);
   border-bottom: var(--borders);
 }
 
-.theme-dark .children_e44302:after {
+.theme-dark .children_fc4f04:after {
   display: none;
 }
 
@@ -64,7 +64,7 @@ foreignObject[mask*="url(#"] {
   display: none;
 }
 
-.theme-dark .autocomplete_f23da8 {
+.theme-dark .autocomplete_bcc24e {
   background-color: var(--projectCabBackground2);
   border: var(--borders);
 }
@@ -89,7 +89,7 @@ foreignObject[mask*="url(#"] {
 }
 
 /* Buttons */
-.wrapper_ef319f {
+.wrapper_f7e168 {
   background: black;
 }
 
@@ -118,7 +118,7 @@ foreignObject[mask*="url(#"] {
 }
 
 /* Quick User Settings */
-.button_f67531 {
+.button_adca65 {
   color: var(--accent);
 }
 
@@ -246,10 +246,10 @@ input[type="checkbox"] {
 }
 
 /* Code */
-.grid_ad0b71,
-.markup_d6076c code,
-.attachment_a4623d,
+.grid_b0068a,
+.markup_f8f345 code,
+.attachment_b52bef,
 .theme-dark .wrapperAudio_f316dd,
-.markup_d6076c code.inline {
+.markup_f8f345 code.inline {
        border: var(--borders);
 }

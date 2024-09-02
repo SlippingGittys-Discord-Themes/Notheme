@@ -22,7 +22,7 @@
   --borders: rgb(255, 255, 255)  2px dotted;
 }
 
-.theme-dark .username_ec86aa, .theme-dark .messageContent_ec86aa, .header_c2668b, .marginBottom20_f7730b, .username_d272d6, .typing_d7ebeb, .username_f3939d, .text_f7ebfd, .title_a1cafe, .header_bf550a, .textContent_cd82a7, .subtext_f3939d, .cozy_ec86aa .messageContent_ec86aa, .username_ec86aa,.username_f3939d, .header_bf550a, .title_a1cafe, .text_f7ebfd {
+.theme-dark .username_f9f2ca, .theme-dark .messageContent_f9f2ca, .header_c2668b, .marginBottom20_f7730b, .username_d272d6, .typing_d7ebeb, .username_f3939d, .text_f7ebfd, .title_a1cafe, .header_bf550a, .textContent_cd82a7, .subtext_f3939d, .cozy_f9f2ca .messageContent_f9f2ca, .username_f9f2ca,.username_f3939d, .header_bf550a, .title_a1cafe, .text_f7ebfd {
        color: black;
 }
 
